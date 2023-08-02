@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f8lerror
-- 👀 I’m interested in ... Fusion 360 (all of it), Python, Machine Learning
+- 👀 I’m interested in ... Fusion 360, Python, Machine Learning
 - 🌱 I’m currently learning ... Fusion 360, Python, C++, C#, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
